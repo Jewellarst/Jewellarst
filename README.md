@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🌟 Welcome to Jewellarst's GitHub Universe! 🌌
 
-<!--
-**Jewellarst/Jewellarst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👾 I'm Jewellarst, a solo validator extraordinaire! With a galaxy of experience in testnets, I'm all about keeping the network cosmos running smoothly. 🚀
 
-Here are some ideas to get you started:
+## What I Do 🛠️
+- 🎖️ **Solo Validator**: Championing decentralization, one node at a time.
+- 🌐 **Full Node Supporter**: Ensuring the network's heartbeat never skips a beat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Journey 🛤️
+- 🧭 Navigated through the most challenging testnets, emerging as a beacon of reliability.
+- 🏗️ Built and maintained robust full nodes, contributing to the network's strength and resilience.
+
+## Connect with Me! 🤝
+- 💡 Looking for a seasoned solo validator? I'm your star!
+- 🌱 Let's grow the blockchain ecosystem together. Reach out and let the collaboration begin!
+
+My Twitter - [@Jewellarst](https://x.com/Jewellarst) | My Discord [jewellarst](https://discord.com/users/843372373658042412) | My linktree [Jewellarst](https://linktr.ee/Jewellarst)
